@@ -1,4 +1,4 @@
-# AngularFromTheoryToPractice
+# AngularFromTheoryToPractice - page 42 - Nesting Components & Inputs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
