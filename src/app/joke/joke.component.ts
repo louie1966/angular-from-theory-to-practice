@@ -6,8 +6,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./joke.component.css']
 })
 export class JokeComponent implements OnInit {
+  setup: string;
+  punchline: string;
 
-  constructor() { }
+  constructor() {
+    this.setup = 'What did the cheese say when it looked in the mirror?';
+    this.punchline = 'Halloumi (Hello Me)';
+  }
 
   ngOnInit() { }
 
